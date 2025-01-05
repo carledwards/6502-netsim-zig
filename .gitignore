@@ -1,2 +1,11 @@
+# Zig build artifacts
 .zig-cache/
 zig-out/
+main
+main.o
+
+# Project specific
+templates/
+
+# OS specific
+.DS_Store
